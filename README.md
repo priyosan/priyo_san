@@ -1,5 +1,5 @@
 ## priyo_san
-## Hi there <img src="https://media3.giphy.com/media/x0PCtFDxyH7ZS/giphy.gif?cid=ecf05e474epcy9lre8319rewfiuqqrjpcwxjrhko0209fk7j&rid=giphy.gif" width="60px">
+## Hi there <img src="https://github.com/MartynasZabulionis/Rurouni-Kenshin-game/blob/master/images/Kenshin/KuzuRyuSen/13.png" width="30px">
 
 i'm a responsible and receptive student who seek position in Devops Cloud Solution, creating insights through architect Google Cloud Platform. Currently learning data, cloud and random stuff
 
