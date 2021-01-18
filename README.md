@@ -3,8 +3,8 @@
 
 i'm a responsible and receptive student who seek position in Devops Cloud Solution, creating insights through architect Google Cloud Platform. Currently learning data, cloud and random stuff
 
-![GitHub Follow](https://img.shields.io/github/followers/elmoallistair.svg?style=social&label=Follow)
-![GitHub Star](https://img.shields.io/github/stars/elmoallistair?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
+![GitHub Follow](https://img.shields.io/github/followers/priyosan.svg?style=social&label=Follow)
+![GitHub Star](https://img.shields.io/github/stars/priyosan?affiliations=OWNER%2CCOLLABORATOR&style=social&label=Star)
 
 📫 How to reach me
 
