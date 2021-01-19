@@ -1,4 +1,4 @@
-## priyo_san
+## priyo san
 ## Hi there <img src="https://github.com/MartynasZabulionis/Rurouni-Kenshin-game/blob/master/images/Kenshin/KuzuRyuSen/13.png" width="30px">
 
 i'm a responsible and receptive student who seek position in Devops Cloud Solution, creating insights through architect Google Cloud Platform. Currently learning data, cloud and random stuff
@@ -10,7 +10,7 @@ i'm a responsible and receptive student who seek position in Devops Cloud Soluti
 
 [![GitHub](https://img.shields.io/badge/--github?label=Github&logo=GitHub&style=social)](https://github.com/priyosan) 
 [![Telegram](https://img.shields.io/badge/--telegram?label=Telegram&logo=Telegram&style=social)](https://t.me/priyophotograph) 
-[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyantopriyo)
+[![LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/priyanto-priyo-93a964171/)
 [![Gmail](https://img.shields.io/badge/--linkedin?label=Gmail&logo=gmail&style=social)](mailto:priyo.san11@gmail.com)
 
 👨‍💻 My Learning profiles
